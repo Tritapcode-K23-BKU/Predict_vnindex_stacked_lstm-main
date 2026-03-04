@@ -21,7 +21,7 @@ Dự án này áp dụng mô hình học sâu **Stacked LSTM** để dự báo c
 
 1. **Clone repo về máy hoặc Colab**
    ```bash
-   git clone https://github.com/t1nh233/predict_vnindex_stacked_lstm.git
+   git clone https://github.com/Tritapcode-K23-BKU/Predict_vnindex_stacked_lstm-main.git
    cd predict_vnindex_stacked_lstm
    
 2. **Cài đặt thư viện cần thiết**
