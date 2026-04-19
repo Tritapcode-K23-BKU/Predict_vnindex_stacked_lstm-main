@@ -30,4 +30,4 @@ Dự án này áp dụng mô hình học sâu **Stacked LSTM** để dự báo c
    
 3. **Chạy dự báo với input**
    ```bash
-   python predict.py --input "file_path"
+    python predict.py --input "file_path"
