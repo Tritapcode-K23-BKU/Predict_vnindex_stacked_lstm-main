@@ -42,7 +42,7 @@ def main(input_file):
     
     for f in [MODEL_PATH, CONFIG_PATH, SCALER_PATH]:
         if not os.path.exists(f):
-            print("Không tìm thấy các file cấu hình")
+            print("Không tìm thấy những file cấu hình")
             return
 
     try:
