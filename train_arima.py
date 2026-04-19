@@ -54,7 +54,7 @@ total_len = len(close_series)
 train_size = int(total_len * 0.7)
 val_size   = int(total_len * 0.2)
 
-train_data = close_series[:train_size]
+
 val_data   = close_series[train_size:train_size + val_size]
 test_data  = close_series[train_size + val_size:]
 
