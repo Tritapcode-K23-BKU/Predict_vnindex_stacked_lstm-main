@@ -110,7 +110,6 @@ def main(input_file):
             "Dự đoán giá ngày mai": final_price,
             "Change": change
         }
-
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Dự báo VN-Index')
     parser.add_argument('--input', type=str, required=True, help='Đường dẫn file CSV input')
